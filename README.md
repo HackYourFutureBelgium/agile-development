@@ -5,9 +5,27 @@ software by doing it and helping others do it.
 Through this work we have come to value:
 >
 >- **Individuals and interactions** over _processes and tools_
+Agile focus on the people that use the product and how they use it 
+is extremely important. Because,teams always work best when they
+pay attention to the human elements, that is called Human-centered 
+design.There are three key area of Human-centered design: observation
+, analysis and ideation.Like, one-on-one interviews(observation),
+personas(analysis) and prototyping (ideation).
 >- **Working software** over _comprehensive documentation_
+Agile value working software over comprehensive documentation—because 
+ the most effective way for a user to gauge how well the
+ product is actually by use it.Agile teams don't wait until the product 
+ is perfect before sharing it with the people, they deliver the 
+ working product quickly and improve it consistently.
 >- **Customer collaboration** over _contract negotiation_
+Agile recognize that projects change, and that people never have 
+perfect information when starting a project.
+So instead of trying to nail down exactly what’s going to be built
+ before they start, they collaborate with their users to try to get the best results.
 >- **Responding to change** over _following a plan_
+It’s important to plan your project, but it’s even more
+important to recognize that those plans will change once the team
+starts working on the code.
 >
 > That is, while there is value in the items on
 the right, we value the items on the left more.
@@ -194,7 +212,26 @@ You will define your user, plan their journey through your application, develop 
 <details open>
 <summary>expand/collapse</summary>
 <br>
+## Fullstack Basic Project planning 
 
+### Scope : 
+This step simply involves planning the scope of the project in question.
+Are you building both a backend and frontend?Do you need to account for 
+user authentication? Will you be using any external/third-party APIs?
+
+### Database Modeling
+If you've decided to build a fullstack project, what database will you be using? What database models will you need? If you're using a relational database, what relationships do you need between models? If you're using MongoDB, do you have a cluster available to put your collection in?
+
+### API Endpoint Planning
+Now it's time to plan out your endpoints! Do you need full CRUD (Creating, Reading, Updating, and Destroying data ) endpoints for every model? Are you planning to handle query parameters with your API? Which endpoints will be public, and which will be protected? How will you protect those endpoints that aren't publicly accessible?
+
+### Backend Build
+Time to build!! Are you using Rails, Express, Django, or something else? Where will you host your API?
+
+### Backend Testing
+Test your code, Build out tests as you go with your testing framework/tool of choice. Maybe  using something like Postwoman/Postman or Insomnia for manually testing API endpoints. They let you mock your API calls to make sure your responses are coming through as expected.
+
+### 
 ### Prep Work
 
 ### Sunday Workshop
