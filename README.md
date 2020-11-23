@@ -3,30 +3,30 @@
 > We are uncovering better ways of developing
 software by doing it and helping others do it.
 Through this work we have come to value:
->
->- **Individuals and interactions** over _processes and tools_
+
+>- **Individuals and interactions** over _processes and tools_<br/>
 Agile focus on the people that use the product and how they use it 
 is extremely important. Because,teams always work best when they
 pay attention to the human elements, that is called Human-centered 
 design.There are three key area of Human-centered design: observation
 , analysis and ideation.Like, one-on-one interviews(observation),
 personas(analysis) and prototyping (ideation).
->- **Working software** over _comprehensive documentation_
+>- **Working software** over _comprehensive documentation_ <br/>
 Agile value working software over comprehensive documentation—because 
  the most effective way for a user to gauge how well the
  product is actually by use it.Agile teams don't wait until the product 
  is perfect before sharing it with the people, they deliver the 
  working product quickly and improve it consistently.
->- **Customer collaboration** over _contract negotiation_
+>- **Customer collaboration** over _contract negotiation_ <br/>
 Agile recognize that projects change, and that people never have 
 perfect information when starting a project.
 So instead of trying to nail down exactly what’s going to be built
  before they start, they collaborate with their users to try to get the best results.
->- **Responding to change** over _following a plan_
+>- **Responding to change** over _following a plan_ <br/>
 It’s important to plan your project, but it’s even more
 important to recognize that those plans will change once the team
 starts working on the code.
->
+
 > That is, while there is value in the items on
 the right, we value the items on the left more.
 >
@@ -212,26 +212,53 @@ You will define your user, plan their journey through your application, develop 
 <details open>
 <summary>expand/collapse</summary>
 <br>
-## Fullstack Basic Project planning 
 
-### Scope : 
+>## Fullstack Basic Project planning 
+
+>#### Scope : <br/>
+
 This step simply involves planning the scope of the project in question.
 Are you building both a backend and frontend?Do you need to account for 
 user authentication? Will you be using any external/third-party APIs?
 
-### Database Modeling
+>#### Database Modeling :     <br/>
+
 If you've decided to build a fullstack project, what database will you be using? What database models will you need? If you're using a relational database, what relationships do you need between models? If you're using MongoDB, do you have a cluster available to put your collection in?
 
-### API Endpoint Planning
+>#### API Endpoint Planning : <br/>
+
 Now it's time to plan out your endpoints! Do you need full CRUD (Creating, Reading, Updating, and Destroying data ) endpoints for every model? Are you planning to handle query parameters with your API? Which endpoints will be public, and which will be protected? How will you protect those endpoints that aren't publicly accessible?
 
-### Backend Build
+> #### Backend Build : <br/>
+
 Time to build!! Are you using Rails, Express, Django, or something else? Where will you host your API?
 
-### Backend Testing
+>#### Backend Testing : <br/>
+
 Test your code, Build out tests as you go with your testing framework/tool of choice. Maybe  using something like Postwoman/Postman or Insomnia for manually testing API endpoints. They let you mock your API calls to make sure your responses are coming through as expected.
 
-### 
+>#### Wireframing / Sketches <br/>
+
+Time for the front design, this step is crucial , even if you don,t consider your self a designer ,sketching out a basic concept layout makes the coding process much easer.This step is even easer if your using Figma , sketch or Bootstrap , because you can plan out which components/classes you'll use ahead of time.
+
+>#### Component Planning  <br/>
+
+If you're using a component based framework like React, it's a really good idea to look at your sketches and break them down into components. Where are your containers? Which components maintain state? Can you create a "single source of truth" for your app to keep your state in check? Planning this out ahead of time will save you so much frustration later on.
+
+>#### Frontend Build   <br/>
+
+You have made it to the frontend build process! :tada: <br/>
+It is a good idea to discus with your team the following questions , Do you know which frameworks or CSS pre-processors you'll use, if any? Do you have your fonts, and colors, and style elements chosen? Are you using them consistently? Are you designing mobile-first and for accessibility? If not, you should be!
+>#### Frontend testing   <br/>
+
+This step is coupled with the prior build test. Write your tests as you go, and make sure you're covering edge cases appropriately. How are you handling errors from a UI perspective? Does your app or site fail well? If not, how can you better handle errors for your users?
+
+>#### User testing   <br/>
+If you want to be really motivated, it's a great idea to get some opinions from users. They might find edge cases you missed, or have suggestions for improving your app that you might be too close to the project to see on your own.<br>
+For beginners working on their first portfolio project, this list can feel really long and really intimidating, but fear not! the good thing about this list, and this process, is that each step is relatively self contained, and each one builds on the last. And you don't necessarily have to have everything planned ahead of time. Maybe you'll plan out the database and API endpoints, and start on your backend build, before you really start thinking much about your front end. Or maybe you'll design a really beautiful frontend mockup and then plan out a backend to fit into that design.<br>
+
+Either way, planning is your friend! and proper project planning  made the process so much more efficient.
+> source : Emily/TheCodePixi
 ### Prep Work
 
 ### Sunday Workshop
