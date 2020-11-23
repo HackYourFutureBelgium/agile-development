@@ -239,7 +239,7 @@ Test your code, Build out tests as you go with your testing framework/tool of ch
 
 >#### Wireframing / Sketches <br/>
 
-Time for the front design, this step is crucial , even if you don,t consider your self a designer ,sketching out a basic concept layout makes the coding process much easer.This step is even easer if your using Figma , sketch or Bootstrap , because you can plan out which components/classes you'll use ahead of time.
+Time for the front design, this step is crucial , even if you don't consider your self a designer ,sketching out a basic concept layout makes the coding process much easer.This step is even easer if your using Figma , sketch or Bootstrap , because you can plan out which components/classes you'll use ahead of time.
 
 >#### Component Planning  <br/>
 
@@ -254,7 +254,7 @@ It is a good idea to discus with your team the following questions , Do you know
 This step is coupled with the prior build test. Write your tests as you go, and make sure you're covering edge cases appropriately. How are you handling errors from a UI perspective? Does your app or site fail well? If not, how can you better handle errors for your users?
 
 >#### User testing   <br/>
-If you want to be really motivated, it's a great idea to get some opinions from users. They might find edge cases you missed, or have suggestions for improving your app that you might be too close to the project to see on your own.<br>
+If you are really motivated, it's a great idea to get some opinions from users. They might find edge cases you missed, or have suggestions for improving your app that you might be too close to the project to see on your own.<br>
 For beginners working on their first portfolio project, this list can feel really long and really intimidating, but fear not! the good thing about this list, and this process, is that each step is relatively self contained, and each one builds on the last. And you don't necessarily have to have everything planned ahead of time. Maybe you'll plan out the database and API endpoints, and start on your backend build, before you really start thinking much about your front end. Or maybe you'll design a really beautiful frontend mockup and then plan out a backend to fit into that design.<br>
 
 Either way, planning is your friend! and proper project planning  made the process so much more efficient.
