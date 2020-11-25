@@ -213,52 +213,68 @@ You will define your user, plan their journey through your application, develop 
 <summary>expand/collapse</summary>
 <br>
 
->## Fullstack Basic Project planning 
+> ### Agile approach 
 
->#### Scope : <br/>
+#### a-Scrum : 
 
-This step simply involves planning the scope of the project in question.
-Are you building both a backend and frontend?Do you need to account for 
-user authentication? Will you be using any external/third-party APIs?
+Scrum is the most common approach to Agile and for good reasons , Scrum rules are easy to learn and straightforward.But,for Scrum to be most effective,teams  need to really understand the values of Scrum and the Agile Manifesto principles, which help
+you get into an effective mindset. Because while Scrum seems simple, the way a Scrum team constantly inspects and adapts is a whole new way of thinking about projects. 
 
->#### Database Modeling :     <br/>
+Every Scrum project follows the same pattern of behavior, which is defined by a series of timeboxed (sprints) events that always happen in the same order. Here’s what the Scrum pattern looks like : 
 
-If you've decided to build a fullstack project, what database will you be using? What database models will you need? If you're using a relational database, what relationships do you need between models? If you're using MongoDB, do you have a cluster available to put your collection in?
+- The team use *the product Backlog* to keep trace of the features that they'll build for the whole project.Keep in mind that *the product Backlog* is the single source for requirements and any changes that wll be made will be throw it .
 
->#### API Endpoint Planning : <br/>
+- Every Scrum project is organized into iterations sprints . Many teams use 30-day Sprints, but it’s pretty common to see two-week Sprints too.
 
-Now it's time to plan out your endpoints! Do you need full CRUD (Creating, Reading, Updating, and Destroying data ) endpoints for every model? Are you planning to handle query parameters with your API? Which endpoints will be public, and which will be protected? How will you protect those endpoints that aren't publicly accessible?
+- At the beginning of each Sprint,the Scrum Team gets together for a Sprint Planning
+session where they choose what items to include in the Sprint.
 
-> #### Backend Build : <br/>
+- The items for the Sprint are pulled off of the *Product Backlog* and added to the *Sprint Backlog*. During the Sprint, all of the development work is focused on building the items in the *Sprint Backlog*
 
-Time to build!! Are you using Rails, Express, Django, or something else? Where will you host your API?
+- Every day, the team holds *a Daily Scrum*, a short meeting where each person gives
+an update on their progress, what they’ll work on next, and any roadblocks they’ve hit.
 
->#### Backend Testing : <br/>
+- When Sprint is done, the team holds a meeting called the *Sprint Review*, where they meet with the users and give a demo of the working software that they built. 
 
-Test your code, Build out tests as you go with your testing framework/tool of choice. Maybe  using something like Postwoman/Postman or Insomnia for manually testing API endpoints. They let you mock your API calls to make sure your responses are coming through as expected.
+- The very last thing the team does in the Sprint is meet and hold a *Sprint Retrospective*, where they talk about what happened during the Sprint so they can reproduce the things that went well and learn from any problems.
 
->#### Wireframing / Sketches <br/>
+#### Scrum roles : 
 
-Time for the front design, this step is crucial , even if you don,t consider your self a designer ,sketching out a basic concept layout makes the coding process much easer.This step is even easer if your using Figma , sketch or Bootstrap , because you can plan out which components/classes you'll use ahead of time.
+There are three roles must be filled on every Scrum team : 
 
->#### Component Planning  <br/>
+1- Product owner : The Product Owner helps the team understand *the users needs* so they can *build the most valuable product*. He/She works with the team every day to help them *understand the features in the Product Backlog*: what items are on it and why the users need them. This is a really important job because it helps the team build the most valuable software they can.
 
-If you're using a component based framework like React, it's a really good idea to look at your sketches and break them down into components. Where are your containers? Which components maintain state? Can you create a "single source of truth" for your app to keep your state in check? Planning this out ahead of time will save you so much frustration later on.
+2- Scrum master : He/She helps the *development team understand and execute Scrum.* Scrum may be simple to describe, but it’s not always easy to get right.the Scrum Master is a servant leader. This means that the person in this role spends all of his or her time helping (or “serving”) the Product Owner, the Development Team, and people throughout the organization:
+> - Helping the product owner find effective ways to manage the backlog
+> - Helping the Development Team understand the Scrum events, and facilitating them if needed
+> - Helping the rest of the organization to understand Scrum and work with the team
+> - Helping everyone do the best job they can to deliver the most valuable software possible.
 
->#### Frontend Build   <br/>
+3- Scrum team : Other people on the team may have different areas of expertise, and
+maybe even different job titles , but they all participate in the Scrum events the same way.
 
-You have made it to the frontend build process! :tada: <br/>
-It is a good idea to discus with your team the following questions , Do you know which frameworks or CSS pre-processors you'll use, if any? Do you have your fonts, and colors, and style elements chosen? Are you using them consistently? Are you designing mobile-first and for accessibility? If not, you should be!
->#### Frontend testing   <br/>
+#### Scrum artifacts : 
 
-This step is coupled with the prior build test. Write your tests as you go, and make sure you're covering edge cases appropriately. How are you handling errors from a UI perspective? Does your app or site fail well? If not, how can you better handle errors for your users?
+The team needs to know about the product that they’re working on, what they’re building in the current Sprint, and how they’ll get it built. Scrum teams use three artifacts
+to manage all of this information: *the Product Backlog*, *the Sprint Backlog*, and *the Increment*.
 
->#### User testing   <br/>
-If you want to be really motivated, it's a great idea to get some opinions from users. They might find edge cases you missed, or have suggestions for improving your app that you might be too close to the project to see on your own.<br>
-For beginners working on their first portfolio project, this list can feel really long and really intimidating, but fear not! the good thing about this list, and this process, is that each step is relatively self contained, and each one builds on the last. And you don't necessarily have to have everything planned ahead of time. Maybe you'll plan out the database and API endpoints, and start on your backend build, before you really start thinking much about your front end. Or maybe you'll design a really beautiful frontend mockup and then plan out a backend to fit into that design.<br>
+- **Product Backlog :** every item in the Product Backlog has four attributes: *order*, *description*,*estimate*, and *value*.**The Product Backlog** is never complete as long as the project is running. *The Product Owner* will constantly work with users and stakeholders throughout the company to add, remove, change, and reorder the items in the Product Backlog.
 
-Either way, planning is your friend! and proper project planning  made the process so much more efficient.
-> source : Emily/TheCodePixi
+> *Order* : The most important items come first and so on.<br>
+> *Estimate* : The time estimated to be done with the items (days).<br>
+> *Value* : (description) What will the item add to the product (for example ,it will make the product more fun and responsive ).
+
+- **Sprint Backlog :** Normally consists of the *sprint goal*, the *first part of the sprint planing* and *the second part of the sprint planning*.
+
+> - *Sprint goal* : the objective that will be met by the team by completing the
+Sprint planing .
+
+> - *The first part of the sprint planing* : the team determines what can be done in *the Sprint* by choosing which items to include in it.
+  
+> - *The second  part of the sprint planing* : the team determines how the chosen work will get done by *decomposing the Sprint items into tasks*.
+
+- **The Increment** : The Increment is the sum of *all backlog items* that are actually completed and delivered at the end of the Sprint.Scrum is incremental, which means the project is broken into “chunks” that are delivered one after another. Each of those“chunks” is called an Increment, and each Increment represents the result of one complete Sprint.
+
 ### Prep Work
 
 ### Sunday Workshop
