@@ -79,7 +79,7 @@ It is not possible for everyone to understand everything in this project.  Each 
 - Frontend: Ultimately responsible for the frontend code, this team member will have final say on decisions related to code organization, styling dependencies, and third-party libraries.  You will need to work very closely with those responsible for UX/UI and backend.
 - Backend: Ultimately responsible for the project's API and data schemas, you will need to work closely with the Frontend owner to make sure your routes and schemas align with their code, and with the Dev-Ops to make sure your backend is compatible with the project's Continuous Deployment.
 
-No matter what role you take, you will still be exepcted to help develop the backlog of issues and review your team mates PRs.
+No matter what role you take, you will still be expected to help develop the backlog of issues and review your team mates PRs.
 
 ### Process over Product
 
@@ -240,7 +240,9 @@ an update on their progress, what they’ll work on next, and any roadblocks the
 
 #### Scrum roles : 
 
+
 There are three roles must be filled on every Scrum team : 
+
 
 1- Product owner : The Product Owner helps the team understand *the users needs* so they can *build the most valuable product*. He/She works with the team every day to help them *understand the features in the Product Backlog*: what items are on it and why the users need them. This is a really important job because it helps the team build the most valuable software they can.
 
@@ -258,6 +260,7 @@ maybe even different job titles , but they all participate in the Scrum events t
 The team needs to know about the product that they’re working on, what they’re building in the current Sprint, and how they’ll get it built. Scrum teams use three artifacts
 to manage all of this information: *the Product Backlog*, *the Sprint Backlog*, and *the Increment*.
 
+
 - **Product Backlog :** every item in the Product Backlog has four attributes: *order*, *description*,*estimate*, and *value*.**The Product Backlog** is never complete as long as the project is running. *The Product Owner* will constantly work with users and stakeholders throughout the company to add, remove, change, and reorder the items in the Product Backlog.
 
 > *Order* : The most important items come first and so on.<br>
@@ -274,6 +277,8 @@ Sprint planing .
 > - *The second  part of the sprint planing* : the team determines how the chosen work will get done by *decomposing the Sprint items into tasks*.
 
 - **The Increment** : The Increment is the sum of *all backlog items* that are actually completed and delivered at the end of the Sprint.Scrum is incremental, which means the project is broken into “chunks” that are delivered one after another. Each of those“chunks” is called an Increment, and each Increment represents the result of one complete Sprint.
+
+
 
 ### Prep Work
 
