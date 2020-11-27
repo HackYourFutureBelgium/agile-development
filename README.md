@@ -219,7 +219,7 @@ You will define your user, plan their journey through your application, develop 
 This step simply involves planning the scope of the project in question. Are you building both a backend and frontend? Do you need to account for user authentication? Will you be using any external/third-party APIs?
 
 
-You  should create your project repository and your project board , with **full backlog** ,  **the Backlog** , helps the team to know about the project you are working on , it is good idea to know that each items on **the Backlog** contains for attributes , importunacy order ,description of the item , estimated time to finish the item and value ( what each items will add to tht project). **The project owner** is responsible for refining , modifying the project Backlog items.
+You  should create your project repository and your project board , with **full backlog** ,  **the Backlog** , helps the team to know about the project you are working on , it is good idea to know that each items on **the Backlog** contains four attributes , importunacy order ,description of the item , estimated time to finish the item and value ( what each item will add to tht project). **The project owner** is responsible for refining , modifying the project Backlog items.
 
 
 Then , you should define user stories! why user stories are important? because, User stories help you to capture what your users need from the project so you can build it out in chunks that they can use. User story consists  of points, which  are a way of saying how much effort will be needed to build a user story. User stories describe how the user will use the software in just a few sentences.
@@ -234,18 +234,14 @@ communication  and collaboration  are the key to successful project.
 ---
 
 [The Ultimate Guide to Planning your Website Project](https://en.yeeply.com/blog/guide-plan-website-project/)
-
 [A Comprehensive Website Planning Guide](https://www.smashingmagazine.com/2018/02/comprehensive-website-planning-guide-part1/)
-
 [Agile Planning](https://toggl.com/blog/agile-planning)
-
 [Agile planning: a step-by-step guide](https://monday.com/blog/project-management/agile-planning/)
-
 [Agile development](https://www.creativebloq.com/features/agile-development-why-and-how-to-use-it-in-your-web-and-app-workflow)
-
 [10 Steps for Planning a Successful Website](https://mastersofdigital.com.au/blog/planning-a-website/)
-
 [Develop and Deploy Your First Full-Stack Web App](https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/)
+[Designing a Full Website UI using Figma](https://dev.to/adriantwarog/designing-a-full-website-ui-using-figma-48fi)
+[Figma Tutorial ](https://www.youtube.com/watch?v=3q3FV65ZrUs)
 
 
 
