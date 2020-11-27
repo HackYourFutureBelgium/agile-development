@@ -213,70 +213,40 @@ You will define your user, plan their journey through your application, develop 
 <summary>expand/collapse</summary>
 <br>
 
-> ### Agile approach 
 
-#### a-Scrum : 
+### Scope : 
 
-Scrum is the most common approach to Agile and for good reasons , Scrum rules are easy to learn and straightforward.But,for Scrum to be most effective,teams  need to really understand the values of Scrum and the Agile Manifesto principles, which help
-you get into an effective mindset. Because while Scrum seems simple, the way a Scrum team constantly inspects and adapts is a whole new way of thinking about projects. 
-
-Every Scrum project follows the same pattern of behavior, which is defined by a series of timeboxed (sprints) events that always happen in the same order. Here’s what the Scrum pattern looks like : 
-
-- The team use *the product Backlog* to keep trace of the features that they'll build for the whole project.Keep in mind that *the product Backlog* is the single source for requirements and any changes that wll be made will be throw it .
-
-- Every Scrum project is organized into iterations sprints . Many teams use 30-day Sprints, but it’s pretty common to see two-week Sprints too.
-
-- At the beginning of each Sprint,the Scrum Team gets together for a Sprint Planning
-session where they choose what items to include in the Sprint.
-
-- The items for the Sprint are pulled off of the *Product Backlog* and added to the *Sprint Backlog*. During the Sprint, all of the development work is focused on building the items in the *Sprint Backlog*
-
-- Every day, the team holds *a Daily Scrum*, a short meeting where each person gives
-an update on their progress, what they’ll work on next, and any roadblocks they’ve hit.
-
-- When Sprint is done, the team holds a meeting called the *Sprint Review*, where they meet with the users and give a demo of the working software that they built. 
-
-- The very last thing the team does in the Sprint is meet and hold a *Sprint Retrospective*, where they talk about what happened during the Sprint so they can reproduce the things that went well and learn from any problems.
-
-#### Scrum roles : 
+This step simply involves planning the scope of the project in question. Are you building both a backend and frontend? Do you need to account for user authentication? Will you be using any external/third-party APIs?
 
 
-There are three roles must be filled on every Scrum team : 
+You  should create your project repository and your project board , with **full backlog** ,  **the Backlog** , helps the team to know about the project you are working on , it is good idea to know that each items on **the Backlog** contains for attributes , importunacy order ,description of the item , estimated time to finish the item and value ( what each items will add to tht project). **The project owner** is responsible for refining , modifying the project Backlog items.
 
 
-1- Product owner : The Product Owner helps the team understand *the users needs* so they can *build the most valuable product*. He/She works with the team every day to help them *understand the features in the Product Backlog*: what items are on it and why the users need them. This is a really important job because it helps the team build the most valuable software they can.
+Then , you should define user stories! why user stories are important? because, User stories help you to capture what your users need from the project so you can build it out in chunks that they can use. User story consists  of points, which  are a way of saying how much effort will be needed to build a user story. User stories describe how the user will use the software in just a few sentences.
 
-2- Scrum master : He/She helps the *development team understand and execute Scrum.* Scrum may be simple to describe, but it’s not always easy to get right.the Scrum Master is a servant leader. This means that the person in this role spends all of his or her time helping (or “serving”) the Product Owner, the Development Team, and people throughout the organization:
-> - Helping the product owner find effective ways to manage the backlog
-> - Helping the Development Team understand the Scrum events, and facilitating them if needed
-> - Helping the rest of the organization to understand Scrum and work with the team
-> - Helping everyone do the best job they can to deliver the most valuable software possible.
+Done with user stories great! :ballot_box_with_check: , it is the time to put a communication  plan :telephone_receiver: 
 
-3- Scrum team : Other people on the team may have different areas of expertise, and
-maybe even different job titles , but they all participate in the Scrum events the same way.
+A good communication between the team , make them more efficient , update and eventually led to a great successful project. It is up to you to put your commination plan ,it is a good idea to know how Agile team communicate , briefly , Agile team divide their project into a small chunks **Sprints** and they are only working on each **Sprint** a time , they have 3 main meetings , on before the **Sprint** start and two after. Also they meet everyday for a short meeting **Daily Sprint** to discus about what each member is working on and if he/ she facing any problem.
 
-#### Scrum artifacts : 
+It is a design time, **The project owner** will create a Figma starter file and share it with his /her teams. Then it is the UX-Ui member responsibly to design. However, it is important to remember that, you are working as a team and your project will be successful if everyone of the team is succeeded , the point is 
+communication  and collaboration  are the key to successful project.
 
-The team needs to know about the product that they’re working on, what they’re building in the current Sprint, and how they’ll get it built. Scrum teams use three artifacts
-to manage all of this information: *the Product Backlog*, *the Sprint Backlog*, and *the Increment*.
+---
 
+[The Ultimate Guide to Planning your Website Project](https://en.yeeply.com/blog/guide-plan-website-project/)
 
-- **Product Backlog :** every item in the Product Backlog has four attributes: *order*, *description*,*estimate*, and *value*.**The Product Backlog** is never complete as long as the project is running. *The Product Owner* will constantly work with users and stakeholders throughout the company to add, remove, change, and reorder the items in the Product Backlog.
+[A Comprehensive Website Planning Guide](https://www.smashingmagazine.com/2018/02/comprehensive-website-planning-guide-part1/)
 
-> *Order* : The most important items come first and so on.<br>
-> *Estimate* : The time estimated to be done with the items (days).<br>
-> *Value* : (description) What will the item add to the product (for example ,it will make the product more fun and responsive ).
+[Agile Planning](https://toggl.com/blog/agile-planning)
 
-- **Sprint Backlog :** Normally consists of the *sprint goal*, the *first part of the sprint planing* and *the second part of the sprint planning*.
+[Agile planning: a step-by-step guide](https://monday.com/blog/project-management/agile-planning/)
 
-> - *Sprint goal* : the objective that will be met by the team by completing the
-Sprint planing .
+[Agile development](https://www.creativebloq.com/features/agile-development-why-and-how-to-use-it-in-your-web-and-app-workflow)
 
-> - *The first part of the sprint planing* : the team determines what can be done in *the Sprint* by choosing which items to include in it.
-  
-> - *The second  part of the sprint planing* : the team determines how the chosen work will get done by *decomposing the Sprint items into tasks*.
+[10 Steps for Planning a Successful Website](https://mastersofdigital.com.au/blog/planning-a-website/)
 
-- **The Increment** : The Increment is the sum of *all backlog items* that are actually completed and delivered at the end of the Sprint.Scrum is incremental, which means the project is broken into “chunks” that are delivered one after another. Each of those“chunks” is called an Increment, and each Increment represents the result of one complete Sprint.
+[Develop and Deploy Your First Full-Stack Web App](https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/)
+
 
 
 
