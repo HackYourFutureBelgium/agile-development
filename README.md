@@ -233,23 +233,15 @@ communication  and collaboration  are the key to successful project.
 
 ---
 
-[The Ultimate Guide to Planning your Website Project](https://en.yeeply.com/blog/guide-plan-website-project/)
-
-[A Comprehensive Website Planning Guide](https://www.smashingmagazine.com/2018/02/comprehensive-website-planning-guide-part1/)
-
-[Agile Planning](https://toggl.com/blog/agile-planning)
-
-[Agile planning: a step-by-step guide](https://monday.com/blog/project-management/agile-planning/)
-
-[Agile development](https://www.creativebloq.com/features/agile-development-why-and-how-to-use-it-in-your-web-and-app-workflow)
-
-[10 Steps for Planning a Successful Website](https://mastersofdigital.com.au/blog/planning-a-website/)
-
-[Develop and Deploy Your First Full-Stack Web App](https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/)
-
-[Designing a Full Website UI using Figma](https://dev.to/adriantwarog/designing-a-full-website-ui-using-figma-48fi)
-
-[Figma Tutorial ](https://www.youtube.com/watch?v=3q3FV65ZrUs)
+- [The Ultimate Guide to Planning your Website Project](https://en.yeeply.com/blog/guide-plan-website-project/)
+- [A Comprehensive Website Planning Guide](https://www.smashingmagazine.com/2018/02/comprehensive-website-planning-guide-part1/)
+- [Agile Planning](https://toggl.com/blog/agile-planning)
+- [Agile planning: a step-by-step guide](https://monday.com/blog/project-management/agile-planning/)
+- [Agile development](https://www.creativebloq.com/features/agile-development-why-and-how-to-use-it-in-your-web-and-app-workflow)
+- [10 Steps for Planning a Successful Website](https://mastersofdigital.com.au/blog/planning-a-website/)
+- [Develop and Deploy Your First Full-Stack Web App](https://www.freecodecamp.org/news/develop-deploy-first-fullstack-web-app/)
+- [Designing a Full Website UI using Figma](https://dev.to/adriantwarog/designing-a-full-website-ui-using-figma-48fi)
+- [Figma Tutorial ](https://www.youtube.com/watch?v=3q3FV65ZrUs)
 
 
 
