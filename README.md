@@ -4,31 +4,27 @@
 software by doing it and helping others do it.
 Through this work we have come to value:
 
->- **Individuals and interactions** over _processes and tools_<br/>
-Agile focus on the people that use the product and how they use it 
-is extremely important. Because,teams always work best when they
-pay attention to the human elements, that is called Human-centered 
-design.There are three key area of Human-centered design: observation
-, analysis and ideation.Like, one-on-one interviews(observation),
-personas(analysis) and prototyping (ideation).
->- **Working software** over _comprehensive documentation_ <br/>
-Agile value working software over comprehensive documentation—because 
- the most effective way for a user to gauge how well the
- product is actually by use it.Agile teams don't wait until the product 
- is perfect before sharing it with the people, they deliver the 
- working product quickly and improve it consistently.
->- **Customer collaboration** over _contract negotiation_ <br/>
-Agile recognize that projects change, and that people never have 
-perfect information when starting a project.
-So instead of trying to nail down exactly what’s going to be built
- before they start, they collaborate with their users to try to get the best results.
->- **Responding to change** over _following a plan_ <br/>
-It’s important to plan your project, but it’s even more
-important to recognize that those plans will change once the team
-starts working on the code.
+>- **Individuals and interactions** over _processes and tools_
 
-> That is, while there is value in the items on
-the right, we value the items on the left more.
+Agile focus on the people that use the product and how they use it is extremely important. Because,teams always work best when they
+pay attention to the human elements, that is called Human-centered design.There are three key area of Human-centered design: observation
+, analysis and ideation. Like, one-on-one interviews(observation),personas(analysis) and prototyping (ideation).
+
+>- **Working software** over _comprehensive documentation_ 
+
+Agile value working software over comprehensive documentation—because the most effective way for a user to gauge how well the
+ product is actually by use it. Agile teams don't wait until the product is perfect before sharing it with the people, they deliver the 
+ working product quickly and improve it consistently.
+
+>- **Customer collaboration** over _contract negotiation_ 
+
+Agile recognize that projects change, and that people never have perfect information when starting a project.So instead of trying to nail down exactly what’s going to be built  before they start, they collaborate with their users to try to get the best results.
+
+>- **Responding to change** over _following a plan_ 
+
+It’s important to plan your project, but it’s even more important to recognize that those plans will change once the team starts working on the code.
+
+> That is why Agile value the items on the left over the items on the right.
 >
 > - [Agile Manifesto](https://agilemanifesto.org/)
 
@@ -129,7 +125,7 @@ You are encouraged to write this using only HTML & CSS (/bootstrap/material/...)
 
 Produce a short (< 2min) video spot explaining your project.  The goal of this spot is to sell your app to new users.  You should not mention the technologies you used, show the code, or talk about how it was built.  You might not even include a screen shot of the app!
 
-Think of the adds you'd see on Youtube, this is what you're aiming for. Be creative, be engagin, be convincing.
+Think of the adds you'd see on Youtube, this is what you're aiming for. Be creative, be engaging, be convincing.
 
 ### Pitch Deck
 
@@ -216,7 +212,7 @@ You will define your user, plan their journey through your application, develop 
 
 ### Scope : 
 
-This step simply involves planning the scope of the project in question. Are you building both a backend and frontend? Do you need to account for user authentication? Will you be using any external/third-party APIs?
+Scoping involves planning the scope of the project in question. Are you building both a backend and frontend? Do you need to account for user authentication? Will you be using any external/third-party APIs?
 
 
 You  should create your project repository and your project board , with **full backlog** ,  **the Backlog** , helps the team to know about the project you are working on , it is good idea to know that each items on **the Backlog** contains four attributes , importunacy order ,description of the item , estimated time to finish the item and value ( what each item will add to tht project). **The project owner** is responsible for refining , modifying the project Backlog items.
