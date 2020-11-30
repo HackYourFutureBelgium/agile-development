@@ -199,6 +199,8 @@ You will define your user, plan their journey through your application, develop 
 
 ### Sunday Workshop
 
+- Read through the [Starter Project](https://github.com/HackYourFutureBelgium/organized-for-deployment)
+
 ### Deliverables
 
 ```markdown
