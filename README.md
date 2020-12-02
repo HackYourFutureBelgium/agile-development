@@ -211,7 +211,6 @@ Helpful resources for this module
 [TOP](#agile-development)
 
 ---
-
 ## Week 1
 
 In the first week you will become familiar with the starter repository and lay out your plans for the next 4 weeks.  Agile does not mean "no planning"!
@@ -228,17 +227,17 @@ You will define your user, plan their journey through your application, develop 
 Scoping involves planning the scope of the project in question. Are you building both a backend and frontend? Do you need to account for user authentication? Will you be using any external/third-party APIs?
 
 
-You  should create your project repository and your project board , with **full backlog** ,  **the Backlog** , helps the team to know about the project you are working on , it is good idea to know that each items on **the Backlog** contains four attributes , importunacy order ,description of the item , estimated time to finish the item and value ( what each item will add to tht project). **The project owner** is responsible for refining , modifying the project Backlog items.
+It would be best to create your project repository and your project board with a **full backlog**. **The Backlog** helps the team to know about the project you are working on. It is a good idea to know that each item on **the Backlog** contains: a priority, a description of the item, an estimated time to finish the item, and the value, what the item will add to the project. **The project owner** is responsible for refining, modifying the project Backlog items.
 
 
-Then , you should define user stories! why user stories are important? because, User stories help you to capture what your users need from the project so you can build it out in chunks that they can use. User story consists  of points, which  are a way of saying how much effort will be needed to build a user story. User stories describe how the user will use the software in just a few sentences.
+Then, you should define user stories! Which user stories are important? User stories help you capture what your users need from the project. A story consists of points, which are a way of saying how much effort will be needed to build a user story. User stories describe how the user will use the software in just a few sentences.
 
 Done with user stories great! :ballot_box_with_check: , it is the time to put a communication  plan :telephone_receiver: 
 
-A good communication between the team , make them more efficient , update and eventually led to a great successful project. It is up to you to put your commination plan ,it is a good idea to know how Agile team communicate , briefly , Agile team divide their project into a small chunks **Sprints** and they are only working on each **Sprint** a time , they have 3 main meetings , on before the **Sprint** start and two after. Also they meet everyday for a short meeting **Daily Sprint** to discus about what each member is working on and if he/ she facing any problem.
+Good communication within the team makes people more efficient and eventually leads to a great successful project. It is a good idea to know how an Agile team communicates. A project is divided into small deliverable chunks **Sprints**. The team works on one ** Sprint** at a time. We have three main meetings, one before the **Sprint** starts to plan it, one during to evaluate progress, and one after to assess the Sprint. A short meeting, a **Daily Sprint** is often organized to discuss what each member is working on and if he/ she is facing any problem.
 
-It is a design time, **The project owner** will create a Figma starter file and share it with his /her teams. Then it is the UX-Ui member responsibly to design. However, it is important to remember that, you are working as a team and your project will be successful if everyone of the team is succeeded , the point is 
-communication  and collaboration  are the key to successful project.
+Before we start a **Sprint**, the design should be clear. *The project owner** is responsible for creating a Figma starter file and share it with his /her teams. Then it is the UX-Ui member's responsibility to design user stories and items that will be worked on in a future **Sprint**. 
+The project owner owns the backlog and the planning, but it is essential to remember that you are working as a team, and your project will be successful if every one of the group helps. The point is communication and collaboration are the keys to a successful project.
 
 ---
 
