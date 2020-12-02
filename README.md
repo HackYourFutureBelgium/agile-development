@@ -236,7 +236,7 @@ Done with user stories great! :ballot_box_with_check: , it is the time to put a 
 
 Good communication within the team makes people more efficient and eventually leads to a great successful project. It is a good idea to know how an Agile team communicates. A project is divided into small deliverable chunks **Sprints**. The team works on one **Sprint** at a time. We have three main meetings, one before the **Sprint** starts to plan it, one during to evaluate progress, and one after to assess the Sprint. A short meeting, a **Daily Sprint** is often organized to discuss what each member is working on and if he/ she is facing any problem.
 
-Before we start a **Sprint**, the design should be clear. *The project owner** is responsible for creating a Figma starter file and share it with his /her teams. Then it is the UX-Ui member's responsibility to design user stories and items that will be worked on in a future **Sprint**. 
+Before we start a **Sprint**, the design should be clear. *The project owner* is responsible for creating a Figma starter file and share it with his /her teams. Then it is the UX-Ui member's responsibility to design user stories and items that will be worked on in a future **Sprint**. 
 The project owner owns the backlog and the planning, but it is essential to remember that you are working as a team, and your project will be successful if every one of the group helps. The point is communication and collaboration are the keys to a successful project.
 
 ---
