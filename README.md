@@ -470,6 +470,8 @@ Be proud! Share your work with the HYF community.
   - Give your name
   - and a helpful description
   
+## Class 7-8
+  
 - [Graduation Day Class 7-8](https://cloud.openknowledge.be/apps/onlyoffice/286480?dir=/&fileid=34874)
 
 ## Class 9 & 10
