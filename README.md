@@ -469,5 +469,7 @@ Be proud! Share your work with the HYF community.
   - Which week it was (if the module is more than 1 week)
   - Give your name
   - and a helpful description
+  
+- [Graduation Day Class 7-8](https://cloud.openknowledge.be/apps/onlyoffice/286480?dir=/&fileid=34874)
 
 ## Class 9 & 10
