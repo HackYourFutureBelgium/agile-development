@@ -252,6 +252,7 @@ The project owner owns the backlog and the planning, but it is essential to reme
 #### Deliverables
 
 ```markdown
+- [ ] [A team repository]() (based on [the starter](https://github.com/HackYourFutureBelgium/organized-for-deployment))
 - [ ] [Figma planning document](_)
 - [ ] [Clearly defined user stories](_)
 - [ ] [Project repository](_)
