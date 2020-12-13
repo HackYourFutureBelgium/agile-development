@@ -174,6 +174,9 @@ Helpful resources for this module
 - [Why do Agile Projects Fail?](https://www.brighthubpm.com/agile/55778-why-do-agile-projects-fail/)
 - [3 Flaws and 3 Fixes](https://www.cio.com/article/2385322/agile-development-why-agile-isn-t-working-bringing-common-sense-to-agile-principles.html)
 - [What's not Agile?](https://dzone.com/articles/whats-not-agile)
+- [From Persona to User Stories](https://www.romanpichler.com/blog/personas-epics-user-stories/)
+- [User stories 101](https://www.mountaingoatsoftware.com/agile/user-stories)
+- [10 tips for writing good User Stories](https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)
 
 ### Three-Tier Architecture
 
