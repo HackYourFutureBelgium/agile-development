@@ -104,6 +104,7 @@ Working code is not enough! Your team will need to produce a contributor-friendl
 - Code of conduct
 - Contributor Guidelines
 - License
+- Wiki with documentation and project overview
 - Clearly organized and working code on the master branch
 - An overview of how the code is organized and where to find what
 - Well defined issues for contributors to select
@@ -252,9 +253,10 @@ The project owner owns the backlog and the planning, but it is essential to reme
 #### Deliverables
 
 ```markdown
+- [ ] [Project repository](_)
+- [ ] [Wiki for planning and documentation](_) ([inspiration](https://github.com/gelilaa/VoxBox/wiki))
 - [ ] [Figma planning document](_)
 - [ ] [Clearly defined user stories](_)
-- [ ] [Project repository](_)
 - [ ] [Project board with initial backlog](_)
 - [ ] [A communication plan](_)
 ```
