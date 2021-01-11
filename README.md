@@ -452,7 +452,21 @@ Be proud! Share your work with the HYF community.
 
 ### Before Class
 
+You can use these guidelines to prepare for your final presentation:
+**Outline for DemoDay Presentation**
+
+You can use these guidelines to prepare your presentation (15min. max):
+    * Part 1: Team introduction & show your video
+    * Part 2: Demo.  (Practice demoing the features you will showcase, make sure they work!)
+    * Part 3: More info (don’t get too technical). Where can someone learn more about your project (repo/README, documentation & contributor’s guidelines)?
+    * Part 4: Personal experiences: a few minutes to share what you learned, liked (or didn’t), what you focused on, what’s next, thankful words to the team!
+
 ### Sunday Workshop
+Full focus on the presentation of your final project.
+* Rather be clean than fancy: use presentation tools that you're familiar with. You don't want to get in trouble on DemoDay ;)
+* Keep it straight to the point (max. 15min)
+* Make sure every team member can tell something *new*
+* Good luck and enjoy this very last week of your HYF journey! 
 
 #### Deliverables
 
